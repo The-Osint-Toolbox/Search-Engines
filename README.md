@@ -5,6 +5,7 @@
   <li>https://bing.com/</li>
   <li>https://duckduckgo.com/</li>
   <li>https://google.com/</li>
+  <li>https://onionsearchengine.com/</li>
   <li>https://searchenginemap.com/</li>
   <li>https://searx.thegpm.org/</li>
   <li>https://startpage.com/</li>
