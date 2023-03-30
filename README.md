@@ -5,7 +5,10 @@
   <li>https://bing.com/</li>
   <li>https://duckduckgo.com/</li>
   <li>https://google.com/</li>
+  <li>https://grep.app/</li>
   <li>https://onionsearchengine.com/</li>
+  <li>https://orchidbox.com/list-of-google-websites-with-country-codes</li>
+  <li>https://search.carrot2.org/#/search/web</li>
   <li>https://searchenginemap.com/</li>
   <li>https://searx.thegpm.org/</li>
   <li>https://startpage.com/</li>
