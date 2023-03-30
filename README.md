@@ -7,6 +7,7 @@
   <li>https://code.google.com/</li>
   <li>http://dargle.net/search</li>
   <li>https://duckduckgo.com/</li>
+  <li>http://findpdfdoc.com/</li>
   <li>https://google.com/</li>
   <li>https://grep.app/</li>
   <li>https://metager.org/</li>
