@@ -1,31 +1,36 @@
-# <p>Search-Engines</p>
-<p>On this page you will find links to useful search engines. Some will be better suited to OSINT, others will be more focused towards privacy. Some are not traditional search engines and will be for particular types of searches.This is not an exhaustible list</p> 
+# Search-Engines
+<p>On this page you will find links to useful search engines. Some will be better suited to OSINT, others will be more focused towards privacy. Some are not traditional search engines and will be for particular types of searches. This is not an exhaustible list, check out the Search Engine Directory links for more options.</p> 
 <p>List of Search Engines.</p>
 <ul>
-  <li>https://bing.com/</li>
-  <li>https://censys.io/</li>
-  <li>https://code.google.com/</li>
-  <li>http://dargle.net/search</li>
-  <li>https://duckduckgo.com/</li>
-  <li>http://findpdfdoc.com/</li>
-  <li>https://google.com/</li>
-  <li>https://grep.app/</li>
-  <li>https://metager.org/</li>
-  <li>https://onionsearchengine.com/</li>
-  <li>https://orchidbox.com/list-of-google-websites-with-country-codes</li>
-  <li>https://oscobo.com/</li>
-  <li>https://private.sh/</li>
-  <li>https://publicwww.com/</li>
-  <li>https://qwant.com/</li>
-  <li>https://search.carrot2.org/#/search/web</li>
-  <li>https://searchenginemap.com/</li>
-  <li>https://searchtempest.com/</li>
-  <li>https://searx.thegpm.org/</li>
-  <li>https://shodan.io/</li>
-  <li>https://startpage.com/</li>
-  <li>https://swisscows.com/en</li>
-  <li>https://yandex.com/</li>
-  <br>
-  <li>https://en.wikipedia.org/wiki/List_of_search_engines</li>
+  <li><a href="https://bing.com/">Bing</a></li>
+  <li><a href="https://censys.io/">Censey</a></li>
+  <li><a href="https://code.google.com/">Code Google</a></li>
+  <li><a href="http://dargle.net/search">Dargle</a></li>
+  <li><a href="https://duckduckgo.com/">DuckDuckGo</a></li>
+  <li><a href="http://findpdfdoc.com/">FindPDF</a></li>
+  <li><a href="https://google.com/">Google</a></li>
+  <li><a href="https://grep.app/">Grep</a></li>
+  <li><a href="https://gsearch.one">GSearch</a></li>
+  <li><a href="http://isearchfrom.com/">I Search From</a></li>
+  <li><a href="https://metager.org/">Metager</a></li>
+  <li><a href="https://mojeek.com/">Mojeek</a></li>
+  <li><a href="https://onionsearchengine.com/">Onion Search</a></li>
+  <li><a href="https://oscobo.com/">Oscobo</a></li>
+  <li><a href="https://private.sh/">Private</a></li>
+  <li><a href="https://publicwww.com/">Publicwww</a></li>
+  <li><a href="https://qwant.com/">Qwant</a></li>
+  <li><a href="https://search.carrot2.org/#/search/web">Carrot2</a></li>
+  <li><a href="https://searchtempest.com/">Search Tempest</a></li>
+  <li><a href="https://searx.thegpm.org/">Searx</a></li>
+  <li><a href="https://shodan.io/">Shodan</a></li>
+  <li><a href="https://startpage.com/">Startpage</a></li>
+  <li><a href="https://swisscows.com/en">Swisscows</a></li>
+  <li><a href="https://yandex.com/">Yandex</a></li>
+ <br/> 
+ <p>Search Engine Directories</p> 
+  <li><a href="https://marcodiversi.com/blog/alternative-search-engines/">100 Alternative Search Engines</a></li>
+  <li><a href="https://searchenginecolossus.com/">Colossus</a></li>
+  <li><a href="https://orchidbox.com/list-of-google-websites-with-country-codes">Google Country Codes</a></li>
+  <li><a href="https://searchenginemap.com/">Search Engine Map</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/List_of_search_engines">Wikipedia</a></li>
 </ul>
-
