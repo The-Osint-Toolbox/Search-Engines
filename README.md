@@ -37,6 +37,7 @@
   <li><a href="https://marcodiversi.com/blog/alternative-search-engines/">100 Alternative Search Engines</a></li>
   <li><a href="https://searchenginecolossus.com/">Colossus</a></li>
   <li><a href="https://orchidbox.com/list-of-google-websites-with-country-codes">Google Country Codes</a></li>
+  <li><a href="https://www.searchall.net/">Search All</a></li>
   <li><a href="https://searchenginemap.com/">Search Engine Map</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_search_engines">Wikipedia</a></li>
 </ul>
