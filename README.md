@@ -7,6 +7,7 @@
 <p>On this page you will find links to useful search engines. Some will be better suited to OSINT, others will be more focused towards privacy. Some are not traditional search engines and will be for particular types of searches. This is not an exhaustible list, check out the Search Engine Directory links for more options.</p> 
 <p>List of Search Engines.</p>
 <ul>
+  <li><a href="https://www.baidu.com/">Baidu</a></li>
   <li><a href="https://bing.com/">Bing</a></li>
   <li><a href="https://censys.io/">Censey</a></li>
   <li><a href="https://code.google.com/">Code Google</a></li>
