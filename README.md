@@ -32,6 +32,8 @@
   <li><a href="https://shodan.io/">Shodan</a></li>
   <li><a href="https://startpage.com/">Startpage</a></li>
   <li><a href="https://swisscows.com/en">Swisscows</a></li>
+  <li><a href="https://search.tosdr.org/">Terms Of Service</a></li>
+   <p>MetaSearch Engine powered by Searx</p>
   <li><a href="https://yandex.com/">Yandex</a></li>
  <br/> 
  <p>Search Engine Directories</p> 
