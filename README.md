@@ -14,6 +14,7 @@
   <li><a href="https://censys.io/">Censey</a></li>
   <li><a href="https://code.google.com/">Code Google</a></li>
   <li><a href="http://dargle.net/search">Dargle</a></li>
+  <li><a href="https://www.dogpile.com/">DogPile</a></li>
   <li><a href="https://duckduckgo.com/">DuckDuckGo</a></li>
   <li><a href="http://findpdfdoc.com/">FindPDF</a></li>
   <li><a href="https://google.com/">Google</a></li>
