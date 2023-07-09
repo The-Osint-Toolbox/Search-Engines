@@ -9,6 +9,7 @@
 <ul>
   <li><a href="https://www.ask.com/web?q=">Ask</a></li>
   <li><a href="https://www.baidu.com/">Baidu</a></li>
+  <li><a href="https://search.becovi.com/serp.php">Becovi</a></li>
   <li><a href="https://bing.com/">Bing</a></li>
   <li><a href="https://search.brave.com/">Brave</a></li>
   <li><a href="https://censys.io/">Censey</a></li>
