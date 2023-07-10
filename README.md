@@ -32,13 +32,16 @@
   <li><a href="https://qwant.com/">Qwant</a></li>
   <li><a href="https://search.carrot2.org/#/search/web">Carrot2</a></li>
   <li><a href="https://searchtempest.com/">Search Tempest</a></li>
-  <li><a href="https://searx.thegpm.org/">Searx</a></li>
   <li><a href="https://shodan.io/">Shodan</a></li>
   <li><a href="https://startpage.com/">Startpage</a></li>
   <li><a href="https://swisscows.com/en">Swisscows</a></li>
-  <li><a href="https://search.tosdr.org/">Terms Of Service</a></li>
-   <p>MetaSearch Engine powered by Searx</p>
+  <li><a href="https://www.yahoo.com/">Yahoo</a></li>
   <li><a href="https://yandex.com/">Yandex</a></li>
+ <br/> 
+ <p>MetaSearch Engine powered by Searx</p>
+  <li><a href="https://searx.space/#">List of SearxNG Instances</a></li>
+  <li><a href="https://searx.thegpm.org/">Searx</a></li>
+  <li><a href="https://search.tosdr.org/">Terms Of Service</a></li>
  <br/> 
  <p>Search Engine Directories</p> 
   <li><a href="https://marcodiversi.com/blog/alternative-search-engines/">100 Alternative Search Engines</a></li>
@@ -46,6 +49,5 @@
   <li><a href="https://orchidbox.com/list-of-google-websites-with-country-codes">Google Country Codes</a></li>
   <li><a href="https://www.searchall.net/">Search All</a></li>
   <li><a href="https://searchenginemap.com/">Search Engine Map</a></li>
-  <li><a href="https://searx.space/#">List of SearxNG Instances</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_search_engines">Wikipedia</a></li>
 </ul>
