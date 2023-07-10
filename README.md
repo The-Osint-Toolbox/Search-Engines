@@ -36,6 +36,7 @@
   <li><a href="https://shodan.io/">Shodan</a></li>
   <li><a href="https://startpage.com/">Startpage</a></li>
   <li><a href="https://swisscows.com/en">Swisscows</a></li>
+  <li><a href="https://www.wiki.com/">Wiki</a></li>
   <li><a href="https://www.yahoo.com/">Yahoo</a></li>
   <li><a href="https://yandex.com/">Yandex</a></li>
   <li><a href="https://you.com/">You Com</a></li>
