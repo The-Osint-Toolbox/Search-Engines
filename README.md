@@ -26,6 +26,7 @@
   <li><a href="https://metager.org/">Metager</a></li>
   <li><a href="https://mojeek.com/">Mojeek</a></li>
   <li><a href="https://onionsearchengine.com/">Onion Search</a></li>
+  <li><a href="https://openverse.org/">Open Verse</a></li>
   <li><a href="https://oscobo.com/">Oscobo</a></li>
   <li><a href="https://private.sh/">Private</a></li>
   <li><a href="https://publicwww.com/">Publicwww</a></li>
