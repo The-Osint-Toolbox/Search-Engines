@@ -37,6 +37,7 @@
   <li><a href="https://swisscows.com/en">Swisscows</a></li>
   <li><a href="https://www.yahoo.com/">Yahoo</a></li>
   <li><a href="https://yandex.com/">Yandex</a></li>
+  <li><a href="https://you.com/">You Com</a></li>
  <br/> 
  <p>MetaSearch Engine powered by Searx</p>
   <li><a href="https://searx.space/#">List of SearxNG Instances</a></li>
