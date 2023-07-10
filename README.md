@@ -46,5 +46,6 @@
   <li><a href="https://orchidbox.com/list-of-google-websites-with-country-codes">Google Country Codes</a></li>
   <li><a href="https://www.searchall.net/">Search All</a></li>
   <li><a href="https://searchenginemap.com/">Search Engine Map</a></li>
+  <li><a href="https://searx.space/#">List of SearxNG Instances</a></li>
   <li><a href="https://en.wikipedia.org/wiki/List_of_search_engines">Wikipedia</a></li>
 </ul>
