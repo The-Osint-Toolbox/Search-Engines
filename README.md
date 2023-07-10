@@ -43,7 +43,7 @@
   <li><a href="https://yandex.com/">Yandex</a></li>
   <li><a href="https://you.com/">You Com</a></li>
  <br/> 
- <p>MetaSearch Engine powered by Searx</p>
+ <p>MetaSearch Engines powered by Searx</p>
   <li><a href="https://searx.space/#">List of SearxNG Instances</a></li>
   <li><a href="https://searx.thegpm.org/">Searx</a></li>
   <li><a href="https://search.tosdr.org/">Terms Of Service</a></li>
