@@ -26,7 +26,7 @@
   <li><a href="https://metager.org/">Metager</a></li>
   <li><a href="https://mojeek.com/">Mojeek</a></li>
   <li><a href="https://onionsearchengine.com/">Onion Search</a></li>
-  <li><a href="https://openverse.org/">Open Verse</a></li>
+  <li><a href="https://openverse.org/">Openverse</a></li>
   <li><a href="https://oscobo.com/">Oscobo</a></li>
   <li><a href="https://private.sh/">Private</a></li>
   <li><a href="https://publicwww.com/">Publicwww</a></li>
@@ -34,6 +34,7 @@
   <li><a href="https://search.carrot2.org/#/search/web">Carrot2</a></li>
   <li><a href="https://searchtempest.com/">Search Tempest</a></li>
   <li><a href="https://shodan.io/">Shodan</a></li>
+  <li><A href="https://www.slideshare.net/">Slideshare</A></li>
   <li><a href="https://startpage.com/">Startpage</a></li>
   <li><a href="https://swisscows.com/en">Swisscows</a></li>
   <li><a href="https://www.wiki.com/">Wiki</a></li>
