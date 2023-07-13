@@ -22,6 +22,7 @@
   <li><a href="https://google.com/">Google</a></li>
   <li><a href="https://grep.app/">Grep</a></li>
   <li><a href="https://gsearch.one">GSearch</a></li>
+  <li><a href="https://www.hotbot.com/">Hot Bot</a></li>
   <li><a href="http://isearchfrom.com/">I Search From</a></li>
   <li><a href="https://ipfs-search.com/#/">IPFS-Search</a></li>
   <li><a href="https://metager.org/">Metager</a></li>
