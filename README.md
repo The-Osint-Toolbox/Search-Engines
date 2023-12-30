@@ -12,6 +12,7 @@
   <li><a href="https://search.becovi.com/serp.php">Becovi</a></li>
   <li><a href="https://bing.com/">Bing</a></li>
   <li><a href="https://search.brave.com/">Brave</a></li>
+  <li><a href="https://search.carrot2.org/#/search/web">Carrot2</a></li>
   <li><a href="https://censys.io/">Censey</a></li>
   <li><a href="https://code.google.com/">Code Google</a></li>
   <li><a href="http://dargle.net/search">Dargle</a></li>
@@ -34,7 +35,7 @@
   <li><a href="https://private.sh/">Private</a></li>
   <li><a href="https://publicwww.com/">Publicwww</a></li>
   <li><a href="https://qwant.com/">Qwant</a></li>
-  <li><a href="https://search.carrot2.org/#/search/web">Carrot2</a></li>
+  <li><a href="https://www.scinapse.io/">Scinapse</a></li>
   <li><a href="https://searchtempest.com/">Search Tempest</a></li>
   <li><a href="https://shodan.io/">Shodan</a></li>
   <li><A href="https://www.slideshare.net/">Slideshare</A></li>
