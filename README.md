@@ -1,7 +1,7 @@
 # Search-Engines
 <br></br>
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <br></br>
 <p>On this page you will find links to useful search engines. Some will be better suited to OSINT, others will be more focused towards privacy. Some are not traditional search engines and will be for particular types of searches. This is not an exhaustible list, check out the Search Engine Directory links for more options.</p> 
