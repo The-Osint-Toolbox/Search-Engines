@@ -25,6 +25,7 @@
   <li><a href="https://scholar.google.com/">Google Scholar</a></li>
   <li><a href="https://grep.app/">Grep</a></li>
   <li><a href="https://gsearch.one">GSearch</a></li>
+  <li><a href="https://hunter.how/">Hunter</a></li>
   <li><a href="http://isearchfrom.com/">I Search From</a></li>
   <li><a href="https://ipfs-search.com/#/">IPFS-Search</a></li>
   <li><a href="https://www.lycos.com/">Lycos</a></li>
