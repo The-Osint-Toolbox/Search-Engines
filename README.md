@@ -51,6 +51,7 @@
   <li><a href="https://www.yahoo.com/">Yahoo</a></li>
   <li><a href="https://yandex.com/">Yandex</a></li>
   <li><a href="https://you.com/">You Com</a></li>
+  <li><a href="https://www.zoomeye.org/">ZoomEye</a></li>
  <br/> 
  <p>MetaSearch Engines powered by Searx</p>
   <li><a href="https://searx.space/#">List of SearxNG Instances</a></li>
