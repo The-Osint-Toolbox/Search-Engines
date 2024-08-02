@@ -12,6 +12,7 @@
   <li><a href="https://search.becovi.com/serp.php">Becovi</a></li>
   <li><a href="https://bing.com/">Bing</a></li>
   <li><a href="https://search.brave.com/">Brave</a></li>
+  <li><a href="https://www.bugbountyhunting.com/">BugBountyHunting</a></li>
   <li><a href="https://search.carrot2.org/#/search/web">Carrot2</a></li>
   <li><a href="https://censys.io/">Censey</a></li>
   <li><a href="https://code.google.com/">Code Google</a></li>
