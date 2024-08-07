@@ -20,6 +20,7 @@
   <li><a href="https://www.dogpile.com/">DogPile</a></li>
   <li><a href="https://duckduckgo.com/">DuckDuckGo</a></li>
   <li><a href="https://results.excite.com/serp?q=">Excite</a></li>
+  <li><a href="https://filepursuit.com">File Pursuit</a></li>
   <li><a href="http://findpdfdoc.com/">FindPDF</a></li>
   <li><a href="https://www.gigablastsearchengine.com/">Gigablast</a></li>
   <li><a href="https://google.com/">Google</a></li>
