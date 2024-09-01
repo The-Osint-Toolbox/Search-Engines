@@ -40,6 +40,7 @@
   <li><a href="https://publicwww.com/">Publicwww</a></li>
   <li><a href="https://qwant.com/">Qwant</a></li>
   <li><a href="https://www.scinapse.io/">Scinapse</a></li>
+  <li><a href="https://searchcode.com/">SearchCode</a></li> 
   <li><a href="https://searchtempest.com/">Search Tempest</a></li>
   <li><a href="https://shodan.io/">Shodan</a></li>
   <li><A href="https://www.slideshare.net/">Slideshare</A></li>
