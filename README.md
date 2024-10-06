@@ -36,6 +36,7 @@
   <li><a href="https://onionsearchengine.com/">Onion Search</a></li>
   <li><a href="https://openverse.org/">Openverse</a></li>
   <li><a href="https://oscobo.com/">Oscobo</a></li>
+  <li><a href="https://www.perplexity.ai/">Perplexity</a></li>
   <li><a href="https://private.sh/">Private</a></li>
   <li><a href="https://publicwww.com/">Publicwww</a></li>
   <li><a href="https://qwant.com/">Qwant</a></li>
