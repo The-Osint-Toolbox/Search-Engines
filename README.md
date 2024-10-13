@@ -67,9 +67,11 @@
       <td>MetaSearch Engines powered by Searx</td>
   </tr>
 </table>
+ <ul> 
   <li><a href="https://searx.space/#">List of SearxNG Instances</a></li>
   <li><a href="https://searx.thegpm.org/">Searx</a></li>
   <li><a href="https://search.tosdr.org/">Terms Of Service</a></li>
+ </ul>  
  <br/>
 <table>
   <tr>
