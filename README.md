@@ -61,6 +61,7 @@
   <li><a href="https://yandex.com/">Yandex</a></li>
   <li><a href="https://you.com/">You Com</a></li>
   <li><a href="https://www.zoomeye.org/">ZoomEye</a></li>
+</ul>
  <br/>
 <table>
   <tr>
@@ -78,6 +79,7 @@
       <td>Search Engine Directories</td>
   </tr>
 </table>
+<ul>
   <li><a href="https://marcodiversi.com/blog/alternative-search-engines/">100 Alternative Search Engines</a></li>
   <li><a href="https://start.me/p/nRADzL/advanced-search-tools">Advanced-Search-Tools</a></li>
   <li><a href="https://searchenginecolossus.com/">Colossus</a></li>
