@@ -55,6 +55,7 @@
   <li><a href="https://vulmon.com/">Vulmon</a></li>
   <li><a href="https://www.webcrawler.com/">Webcrawler</a></li>
   <li><a href="https://www.wiki.com/">Wiki</a></li>
+  <li><a href="https://wikipedia-semantic-search.vercel.app/">Wikipedia Semantic Search</a></li>
   <li><a href="https://www.wolframalpha.com/">WolframAlpha</a></li>
   <li><a href="https://worldcat.org/">WorldCat</a></li> 
   <li><a href="https://www.yahoo.com/">Yahoo</a></li>
