@@ -11,6 +11,7 @@
   </tr>
 </table>
 <ul>
+  <li><a href="https://www.alexandria.org/">Alexandria</a></li>
   <li><a href="https://www.ask.com/web?q=">Ask</a></li>
   <li><a href="https://www.baidu.com/">Baidu</a></li>
   <li><a href="https://search.becovi.com/serp.php">Becovi</a></li>
