@@ -36,6 +36,7 @@
   <li><a href="http://isearchfrom.com/">I Search From</a></li>
   <li><a href="https://ipfs-search.com/#/">IPFS-Search</a></li>
   <li><a href="https://www.lycos.com/">Lycos</a></li>
+  <li><a href="https://marginalia-search.com/">Marginalia-Search</a></li>
   <li><a href="https://metager.org/">Metager</a></li>
   <li><a href="https://mojeek.com/">Mojeek</a></li>
   <li><a href="https://onionsearchengine.com/">Onion Search</a></li>
